@@ -1,5 +1,10 @@
 Hello Git from first file
+<<<<<<< HEAD
 
 
 
 add footer node
+=======
+add another marketing section 
+>>>>>>> bug-fix
+2024 is comming 
